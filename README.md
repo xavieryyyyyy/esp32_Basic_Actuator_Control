@@ -125,11 +125,8 @@ The wiring photo is shown above. The hardware demonstration is in `media/demo.mp
 
 </details>
 
-GitHub does not render repository MP4 files as players inside a README. Opening the link shows GitHub's video file view. GitHub's inline video player is available for videos attached to issue or pull-request comments. [GitHub attachment instructions](https://docs.github.com/en/github-cli/github-cli/attaching-files)
 
 <h2 id="references"><img src="media/icons/list-checks.svg" width="22" height="22" align="absmiddle" alt=""> References to add</h2>
-
-The original README has placeholders for the two datasheet links. Add the exact documents used for the report before submission:
 
 - 28BYJ-48 5 V stepper motor reference datasheet
 - ULN2003AN / ULN2003A datasheet
